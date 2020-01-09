@@ -2,3 +2,4 @@ Just list your ideas for the project here. We can choose eventually.
 
 1- Image Generation project number 4 looks really interesting and would allow us to apply things most others won't.
 2- Kick Estefan off the team please
+3- Make Adrien git gud at git
