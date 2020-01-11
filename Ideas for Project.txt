@@ -1,5 +1,12 @@
 Just list your ideas for the project here. We can choose eventually.
 
 1- Image Generation project number 4 looks really interesting and would allow us to apply things most others won't.
-2- Kick Estefan off the team please
-3- Make Adrien git gud at git
+    a- 	Using the CIFAR dataset (https://www.cs.toronto.edu/~kriz/cifar.html) to generate animals using deep generative models
+		Could be nice to find some article about this. 
+	b-	There is also ImageNet that has a large dataset for a similar project. (http://image-net.org/download-features)
+	
+2 - GNNs for heterogeneous graphs
+	a- 	Anti-money laudring of blockchain network using GCN (https://arxiv.org/pdf/1908.02591.pdf. Using the elliptic dataset (https://www.kaggle.com/ellipticco/elliptic-data-set)
+	b- 	Fault detection in electrical grid using (GCN) (https://arxiv.org/pdf/1812.09464.pdf)
+		Dataset is use following the IEEE 123 node bus (a benchmark model).
+    
